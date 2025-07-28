@@ -1,0 +1,12 @@
+
+C:\xampp\htdocs\30-hari-git-github-NAMA_ANDA>git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        hari-01.txt
+        hari-04.txt
+        pengalaman-hari-05.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
