@@ -1,0 +1,30 @@
+commit ffe5489fb371cb77c576ce533bf15a02bae01908 (HEAD -> master)
+Author: Nazwa <nazwarizkiaulia0@gmail.com>
+Date:   Mon Jul 28 15:35:17 2025 +0800
+
+    Menambahkan status repositori ke file hari-04.txt
+
+commit d06332d5a69ae5c86f8d3e5320cc0cba152baf83 (origin/master)
+Author: Nazwa <nazwarizkiaulia0@gmail.com>
+Date:   Mon Jul 28 14:19:51 2025 +0800
+
+    feat: Menambahkan langkah-langkah memasak
+
+commit 79ccf3f2bc5be823e564b598ae899f9bd68a1363
+Author: Nazwa <nazwarizkiaulia0@gmail.com>
+Date:   Mon Jul 28 14:17:44 2025 +0800
+
+    feat: Menambahkan daftar bahan bahan
+
+commit ff944a3cfb6adaa86c9f4e364604c5d3594d4c5b
+Author: Nazwa <nazwarizkiaulia0@gmail.com>
+Date:   Mon Jul 28 14:14:38 2025 +0800
+
+    docs: Menambahkan judul dan deskripsi resep
+
+commit d7e077d55d17997b4fc827664663b31c040380cf
+Author: Nazwa <nazwarizkiaulia0@gmail.com>
+Date:   Mon Jul 28 13:38:26 2025 +0800
+
+    Menambahkan file hari-02 dan hari-05 dengan isi yang benar
+
